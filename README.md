@@ -8,10 +8,11 @@ Atualmente um Projeto de Xadrez em C++<br>Desenvolvedor Back-End<br>Aprendendo F
 # 💻 Habilidades:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-## 💰 Você Pode Me Ajudar Doando: <h5>*ps: ajuda muito*</h5>
+## 💰 Você Pode Me Ajudar Doando:
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/https://www.patreon.com/TyroneFilho) 
 
-# 📊 GitHub Views:
-[![](https://visitcount.itsvg.in/api?id=Tyrone-Filho&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+### Obrigado Por Visitar Meu Github
+---
+![animação cobra](./cobra.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
